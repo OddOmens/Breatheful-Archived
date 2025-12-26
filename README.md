@@ -8,9 +8,6 @@ Breatheful is a mindfulness and breathing assistant application for iOS, designe
 
 This codebase is being released to the public as-is. It serves as an educational resource and an archive of the project. There is no support provided, and no future updates are planned by the original authors.
 
-## Disclaimer
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ## Getting Started
 
@@ -25,10 +22,6 @@ To explore or build the app locally:
     *   If necessary, update the Bundle Identifier to something unique.
 3.  **Build and Run**: Select a simulator or connected device and press Run (Cmd+R).
 
-## Requirements
-
-*   Xcode 15.0+
-*   iOS 17.0+
 
 ## Features
 
@@ -37,3 +30,12 @@ To explore or build the app locally:
 *   **Audio**: Soothing background sounds (Rain, Forest, Piano, etc.).
 *   **HealthKit**: Integration with Apple Health to track Mindfulness Minutes.
 *   **Customization**: Extensive theming options for colors and app icons.
+*   
+## Requirements
+
+*   Xcode 15.0+
+*   iOS 17.0+
+
+## Disclaimer
+
+This software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
