@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22758" systemVersion="23C71" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="Profile" representedClassName=".Profile" syncable="YES">
+        <attribute name="afternoonReminder" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="afternoonReminderEnabled" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="dailyGoal" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="dailyUsageMinutes" optional="YES" attributeType="Binary"/>
+        <attribute name="morningReminder" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="morningReminderEnabled" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="nightReminder" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="nightReminderEnabled" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="preferredAudioMode" optional="YES" attributeType="String"/>
+        <attribute name="preferredBreathingMode" optional="YES" attributeType="String"/>
+        <attribute name="selectedYear" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="weeklyAverage" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+    </entity>
+</model>

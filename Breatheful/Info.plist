@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleLocalizations</key>
+	<array>
+		<string>en</string>
+	</array>
+	<key>NSSupportsAutomaticTermination</key>
+	<true/>
+	<key>NSHealthShareUsageDescription</key>
+	<string>Breatheful uses HealthKit to save your mindfulness sessions to the Health app, allowing you to track your meditation and breathing practice alongside other health data.</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>Breatheful uses HealthKit to save your mindfulness sessions to the Health app, allowing you to track your meditation and breathing practice alongside other health data.</string>
+	<key>UILaunchScreen</key>
+	<dict>
+		<key>UIColorName</key>
+		<string>LaunchColor</string>
+		<key>UIImageName</key>
+		<string>LaunchIcon</string>
+		<key>UIImageRespectsSafeAreaInsets</key>
+		<true/>
+	</dict>
+</dict>
+</plist>
