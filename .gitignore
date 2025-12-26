@@ -1,0 +1,67 @@
+# Xcode
+#
+# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+
+## User settings
+xcuserdata/
+
+## compatibility with Xcode 8 and earlier (ignoring these is cleaner)
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.pbuser
+*.xccheckout
+*.xcscmblueprint
+
+## Compatibility with Xcode 3 and earlier (ignoring these is cleaner)
+build/
+DerivedData/
+*.hmap
+*.ipa
+*.pkg
+
+## Xcode Patch
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcodeproj/project.xcworkspace/
+!*.xcworkspace/contents.xcworkspacedata
+/*.gcno
+
+## Projects using CocoaPods
+Pods/
+CocoaPods/
+
+## Projects using Carthage
+Carthage/Build/
+
+## Projects using fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+## OS X
+.DS_Store
+
+## Swift Package Manager
+.build/
+Packages/
+Package.pins
+.apple/
+.swiftpm/
+
+## Playground
+timeline.xctimeline
+playground.xcworkspace
+
+# Other
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+
+# Obj-C/Swift specific
+*.hmap
+
+# Accidental Code Injection
+main.html
