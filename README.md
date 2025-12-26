@@ -30,7 +30,7 @@ To explore or build the app locally:
 *   **Audio**: Soothing background sounds (Rain, Forest, Piano, etc.).
 *   **HealthKit**: Integration with Apple Health to track Mindfulness Minutes.
 *   **Customization**: Extensive theming options for colors and app icons.
-*   
+
 ## Requirements
 
 *   Xcode 15.0+
